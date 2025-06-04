@@ -2,7 +2,7 @@
 
 Progetto del Liceo Scientifico Statale Giuseppe Berto di Vibo Valentia
 
-Codice Sorgente sviluppato da Giuseppe Spinoso [PredestinatoNew](https:\\github.com\PredestinatoNew)
+Codice Sorgente sviluppato da Giuseppe Spinoso [PredestinatoNew](https://github.com/PredestinatoNew)
 
 ---
 
